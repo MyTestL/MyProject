@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Test:war exploded">
+    <output-path>$PROJECT_DIR$/Test/out</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Test/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Test" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/Test/web/WEB-INF/lib/jstl-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Test/web/WEB-INF/lib/commons-io-2.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Test/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Test/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/Test/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
+          <element id="library" level="module" name="commons-beanutils-1.8.3" module-name="Test" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

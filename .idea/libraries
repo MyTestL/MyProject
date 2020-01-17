@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="MyLib">
+      <CLASSES>
+        <root url="file://E:/Tools/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://E:/Tools/lib" recursive="false" />
+    </library>
+    <library name="Tomcat7.0">
+      <CLASSES>
+        <root url="file://C:/Program Files/Apache Software Foundation/Tomcat 7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://C:/Program Files/Apache Software Foundation/Tomcat 7.0/lib" recursive="false" />
+    </library>
+    <library name="Tomcat9.0">
+      <CLASSES>
+        <root url="file://E:/Tools/apache-tomcat-9.0.17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://E:/Tools/apache-tomcat-9.0.17/lib" recursive="false" />
+    </library>
+  </component>
+</project>
